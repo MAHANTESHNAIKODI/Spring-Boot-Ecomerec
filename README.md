@@ -1,1 +1,1 @@
-# Spring-Boot-Ecomerec
+# Spring-Boot-Ecommerce
